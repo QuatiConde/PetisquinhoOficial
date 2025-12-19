@@ -2,7 +2,7 @@ const cacheName = "AruanaEstudio-Petisquinho-1.0.8";
 const contentToCache = [
     "Build/77e37a9850d818b80e79a26e6960a66a.loader.js",
     "Build/a8e9b85afdcd722a6c2b2f21fc417856.framework.js",
-    "Build/c009a8f713f52b329fd9b438c7ce38af.data",
+    "Build/77ee2614f69db4aed49354507dac369c.data",
     "Build/48316fd5e3db33294670113de33d0f42.wasm",
     "TemplateData/style.css"
 
